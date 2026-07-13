@@ -338,7 +338,7 @@ export function HomeLocation({ onNavigate }: { onNavigate: (section: string) => 
                 </div>
                 <div>
                   <h4 className="text-xs uppercase tracking-wider text-gray-400 font-medium">Phone / WhatsApp</h4>
-                  <p className="text-xs sm:text-sm text-gray-900 font-medium">+91 9518973092</p>
+                  <p className="text-xs sm:text-sm text-gray-900 font-medium">+91 9511240238</p>
                 </div>
               </div>
             </div>

@@ -345,7 +345,7 @@ Note: ${formData.notes || 'None'}`;
                     name="phone"
                     value={formData.phone}
                     onChange={handleChange}
-                    placeholder="e.g. 9518973092"
+                    placeholder="e.g. 9511240238"
                     className={`w-full pl-10 pr-4 py-3 bg-[#1A1414]/40 border rounded-xl text-sm text-white placeholder-[#FCEBE6]/30 focus:outline-none focus:ring-1 focus:ring-[#B76E79] focus:bg-[#1A1414]/80 transition-all ${
                       errors.phone ? 'border-red-400' : 'border-[#B76E79]/20 hover:border-[#B76E79]/40'
                     }`}
