@@ -1,0 +1,6 @@
+{
+  "name": "AR Beauty Parlour",
+  "description": "Elegant, luxury booking website for AR Beauty Parlour, Amravati. Discover premium beauty rituals, signature facials, hair care, and book seamlessly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
