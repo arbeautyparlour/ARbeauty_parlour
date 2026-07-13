@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/2c2d4b3b-3895-4bf1-9b98-8ddeb
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# ARbeauty_parlour
